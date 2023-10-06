@@ -2,3 +2,5 @@ TestProject/Library/
 TestProject/Logs/
 TestProject/Temp/
 TestProject/test/
+TestProject/.vs/
+TestProject/obj/Debug/
